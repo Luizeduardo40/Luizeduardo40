@@ -1,10 +1,14 @@
-### Olá! Eu sou Luiz Eduardo 
+## Olá! Eu sou Luiz Eduardo 
+
+#### IFS - Campus Lagarto
+#### Bacharelado em Sistemas de Informação 4/8
+#### Lagarto - SE
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiz.eduardo40/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-eduardo-andrade-de-oliveira-0b0620299/)
 
 ![Luiz Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizeduardo40&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizeduardo40&layout=compact&theme=merko)](https://github.com/Luizeduardo40/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizeduardo40&layout=compact&theme=merko)
 
 ## Tecnologias que eu utilizo
 
